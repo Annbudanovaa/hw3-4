@@ -3,6 +3,7 @@
 ![https://docs.google.com/forms/d/1k2D4R7jRn8MRmI6UHbeymXd7CDf-1vYaTAZ1syGs2Kc/edit]
 # Google table
 ![https://docs.google.com/spreadsheets/d/1Cj8Eg_SN_H7LeSH-xBNbOZD1X3yFDW5ByY4mmShccts/edit#gid=552309131]
+P.S. Левые числа для тренировки суммы, среднего знач., max и min находятся правее основной таблицы
 # Опрос
 ## Цели опроса:
 1) Научиться создавать Гугл-формы
